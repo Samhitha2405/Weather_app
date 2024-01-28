@@ -22,7 +22,7 @@ body
     padding: 2rem 0 2rem 0;
     text-align: center;
     justify-content: center;
-    background: rgb(114, 209, 79);
+    background: #C0C0C0 ;
     height: 150px;
 }
 .inputs input[type="text"] 
@@ -43,7 +43,7 @@ body
 {
     height: 3rem;
     width: 6rem;
-    background: #f08501;
+    background: #4B0082;
     font-weight: bold;
     color: white;
     font-size: 1rem;
@@ -70,7 +70,7 @@ body
 {
     padding: 5px 0;
     text-align: center;
-    background: #db43bd;
+    background: #87CEEB ;
     color: white;
 }
 .wrapper p
